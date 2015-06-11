@@ -1,1 +1,25 @@
 /*Hey fellas!*/
+#nav {
+	margin-top: 50px;
+	margin-left: -10px;
+	background-color: white;
+	height: 80px;
+	width: 101%;
+	border: thin solid lightskyblue;
+	position: fixed;
+	top: 0;		
+}
+.left {
+	
+	width: 60%;
+	margin: 0 auto;
+}
+a {
+	text-decoration: none;
+}
+li {
+	list-style: none;
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 15px
+}
