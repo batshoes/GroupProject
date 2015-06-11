@@ -1,8 +1,15 @@
 /*Hey fellas!*/
+html {
+	background-image: url(../Images/Savannah.jpg);
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
 #nav {
 	margin-top: 50px;
 	margin-left: -10px;
-	background-color: white;
 	height: 80px;
 	width: 101%;
 	border: thin solid lightskyblue;
@@ -16,10 +23,19 @@
 }
 a {
 	text-decoration: none;
+	color: yellow
+
 }
 li {
 	list-style: none;
 	display: inline-block;
 	margin-left: 50px;
-	margin-top: 15px
+	margin-top: 15px;
+	font-size: 20px;
+	font-family: palatino;
+	color: green
+}
+#tiger {
+	height: 400px;
+	width: 400px;
 }
