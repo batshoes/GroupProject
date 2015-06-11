@@ -8,17 +8,16 @@ html {
 }
 
 #nav {
-	margin-top: 50px;
+	margin-top: 20px;
 	margin-left: -10px;
 	height: 80px;
 	width: 101%;
-	border: thin solid lightskyblue;
 	position: fixed;
 	top: 0;		
 }
 .left {
 	
-	width: 60%;
+	width: 90%;
 	margin: 0 auto;
 }
 a {
@@ -29,7 +28,7 @@ a {
 li {
 	list-style: none;
 	display: inline-block;
-	margin-left: 50px;
+	margin-left: 70px;
 	margin-top: 15px;
 	font-size: 20px;
 	font-family: palatino;
