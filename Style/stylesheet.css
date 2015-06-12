@@ -1,4 +1,4 @@
-/*Hey fellas!*/
+
 html {
 	background-image: url(../Images/Savannah.jpg);
 	background-position: center center;
@@ -20,24 +20,7 @@ html {
 	width: 90%;
 	margin: 0 auto;
 }
-a {
-	text-decoration: none;
-	color: yellow
 
-}
-li {
-	list-style: none;
-	display: inline-block;
-	margin-left: 70px;
-	margin-top: 15px;
-	font-size: 20px;
-	font-family: palatino;
-	color: green
-}
-#tiger {
-	height: 400px;
-	width: 400px;
-}
 #filler {
 	height: 110px;
 	width: 100%;
