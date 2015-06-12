@@ -7,12 +7,13 @@ h1 {
 	text-align: center;
 }
 
-div#mainbox {
+#mainbox {
 	margin: 0 auto;
 	width: 70%;
-	background-color: rgba(0, 0, 0, 0.2);
+	background-color: rgba(0, 0, 0, 0.3);
 }
 
-div#mainbox {
-	color: red;
+#mainbox {
+	font-size: 28px;
+	color: white;
 }
