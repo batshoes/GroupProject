@@ -1,0 +1,13 @@
+#title {
+  text-align: center;
+}
+#container {
+  margin: 0 auto;
+  width: 70%;
+  font-size: 24px;
+  color: white;
+  background-color: rgba(0,0,0,0.3);
+}
+a {
+  color: white;
+}
