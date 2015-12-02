@@ -17,3 +17,27 @@ h1 {
 	font-size: 28px;
 	color: white;
 }
+
+.nav {
+	float: left;
+	margin-right: 5%;
+}
+
+#nav {
+	margin-top: 20px;
+	margin-left: -10px;
+	height: 80px;
+	width: 101%;
+	position: fixed;
+	top: 0;		
+}
+
+#nav {
+	width: 101%;
+	height: 47px;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+.give {
+	color: white;
+}

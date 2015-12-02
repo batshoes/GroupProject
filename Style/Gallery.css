@@ -2,6 +2,7 @@
   margin: 0 auto;
   border:inset 10px #336699;
   background-color: #669999;
+  margin-top: 10%;
 }
 .long2 {
   margin-left:60px;
@@ -19,4 +20,24 @@ p {
 }
 #gallery1 {
   border: outset 12px #996633;
+}
+
+.nav {
+  float: left;
+  margin-right: 5%;
+}
+
+#nav {
+  margin-top: 20px;
+  margin-left: -10px;
+  height: 80px;
+  width: 101%;
+  position: fixed;
+  top: 0;   
+}
+
+#nav {
+  width: 101%;
+  height: 47px;
+  background-color: rgba(0, 0, 0, 0.2);
 }
